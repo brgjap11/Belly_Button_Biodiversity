@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Belly Button Biodiversity
 =======
 # Belly Button Biodiversity: Interactive Visualizations and Dashboard
@@ -8,5 +8,5 @@
 - Used CSS Bootstrap and HTML for dashboard design.
 - Deployed to Heroku: https://belly-button-analysis.herokuapp.com//
 
-![png](github_img/webpage1.png)
-![png](github_img/webpage2.png)
+![png](github_img/webpage1.PNG)
+![png](github_img/webpage2.PNG)
